@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuel-SedanoLuna
 - 👀 I’m interested in Java, C++ and HTML 
-- 🌱 I’m currently learning JAVA High leve
+- 🌱 I’m currently learning JAVA High level
 - 📫 How to reach me Phone: +52 7771870208 E-Mail: manuels.luna14@gmail.com
 
 <!---
