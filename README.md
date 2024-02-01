@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manuel-SedanoLuna
-- 👀 I’m interested in Java, C++ and HTML 
-- 🌱 I’m currently learning JAVA High level
+- 👀 I’m interested in Java, C++, python and HTML 
+- 🌱 I’m currently learning Data science and Artificial Intelligence
 - 📫 How to reach me Phone: +52 7771870208 E-Mail: manuels.luna14@gmail.com or jose.sedanol@udem.edu
 
 <!---
